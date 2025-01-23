@@ -9,10 +9,10 @@
     <li>I'm currently looking for work in Birmingham UK! </li>
     <li>I enjoy all kinds of problem solving and programming!</li>
     <li>I find cybersecurity particularly interesting</li>
-    <li>Check out one of my python projects <a href="https://github.com/nathantwright/wests_best_text_comparison">here!</a></li>
+    <li>Check out one of my python projects <a href="https://github.com/nathantwright/wests_best_text_comparison" target="_blank">here!</a></li>
 </ul>
 <div align="center">
-  <a href="NathanTWright@me.com">
+  <a href="mailto:thenathanwright+github@gmail.com">
     <img src="https://img.shields.io/badge/email_me!-337722?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/nathan-wright-151a69288/" target="_blank">
