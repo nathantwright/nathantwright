@@ -4,10 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=337722&duration=4000&lines=Welcome!;" />
 </h1>
 
-<p align="center">My name is Nathan Wright. Welcome to my GitHub profile!</p>
-<hr>
+<h1 align="center">My name is Nathan Wright. Welcome to my GitHub profile!</h1>
 <ul>
-  <li>I'm currently looking for work in Birmingham UK! </li>
+    <li>I'm currently looking for work in Birmingham UK! </li>
+    <li>I enjoy all kinds of problem solving and programming!</li>
+    <li>I find cybersecurity particularly interesting</li>
+    <li>Check out one of my python projects <a href="https://github.com/nathantwright/wests_best_text_comparison">here!</a></li>
 </ul>
 <div align="center">
   <a href="NathanTWright@me.com">
@@ -16,7 +18,7 @@
   <a href="https://www.linkedin.com/in/nathan-wright-151a69288/" target="_blank">
     <img src="https://img.shields.io/badge/visit_my_LinkedIn!-337722?style=for-the-badge" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="NathanWrightCV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/peek_at_my_cv!-337722?style=for-the-badge" target="_blank" />
   </a>
 </div>
@@ -27,8 +29,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,bootstrap,godot,mysql,postman,git,wordpress,kubernetes,docker,haskell,java" />
-  <img src="https://skillicons.dev/icons?i=vscode,github,latex,linux,ubuntu,windows,idea" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,bootstrap,godot,mysql,postman,git,kubernetes,docker,haskell,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=wordpress,vscode,github,latex,linux,ubuntu,windows,idea" />
   <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,discord" />
 </p>
 <hr>
