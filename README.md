@@ -10,6 +10,7 @@
     <li>I enjoy all kinds of problem solving and programming!</li>
     <li>I find cybersecurity particularly interesting</li>
     <li>Check out one of my python projects <a href="https://github.com/nathantwright/wests_best_text_comparison" target="_blank">here!</a></li>
+    <li>See a trade-show demo I worked on for Jabra being used <a href="https://www.linkedin.com/posts/jabra_demo-marketing-data-ugcPost-7293247114673815552-gl5s?utm_source=share&utm_medium=member_ios" target="_blank">here!</li>
 </ul>
 <div align="center">
   <a href="mailto:thenathanwright+github@gmail.com">
