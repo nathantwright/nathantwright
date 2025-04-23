@@ -6,7 +6,7 @@
 
 <h1 align="center">My name is Nathan Wright. Welcome to my GitHub profile!</h1>
 <ul>
-    <li>I'm currently looking for work in Birmingham UK! </li>
+    <li>I'm currently training to be a DevOps engineer with Sparta Global! </li>
     <li>I enjoy all kinds of problem solving and programming!</li>
     <li>I find cybersecurity particularly interesting</li>
     <li>Check out one of my python projects <a href="https://github.com/nathantwright/wests_best_text_comparison" target="_blank">here!</a></li>
