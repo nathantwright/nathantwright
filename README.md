@@ -6,8 +6,9 @@
 
 <h1 align="center">My name is Nathan Wright. Welcome to my GitHub profile!</h1>
 <ul>
-    <li>I'm currently training to be a DevOps engineer with Sparta Global! </li>
+    <li>I'm currently working as an Engineer for Sparta Global with one of their clients! </li>
     <li>I enjoy all kinds of problem solving and programming!</li>
+    <li>I work with Atlassian Suite and Google Apps Script</li>
     <li>I find cybersecurity particularly interesting</li>
     <li>Check out one of my python projects <a href="https://github.com/nathantwright/wests_best_text_comparison" target="_blank">here!</a></li>
     <li>See a trade-show demo I worked on for Jabra being used <a href="https://www.linkedin.com/posts/jabra_demo-marketing-data-ugcPost-7293247114673815552-gl5s?utm_source=share&utm_medium=member_ios" target="_blank">here!</li>
@@ -23,17 +24,6 @@
     <img src="https://img.shields.io/badge/peek_at_my_cv!-337722?style=for-the-badge" target="_blank" />
   </a>
 </div>
-<hr>
-
-<p align="center">
-  I have varying levels of experience with all of the following:
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,bootstrap,godot,mysql,postman,git,kubernetes,docker,haskell,java,cpp" />
-  <img src="https://skillicons.dev/icons?i=wordpress,vscode,github,latex,linux,ubuntu,windows,idea" />
-  <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,discord" />
-</p>
 <hr>
 
 <!--
